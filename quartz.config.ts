@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "masternoiza.github.io/Grimdark_Worldbuilding/",
+    baseUrl: "masternoiza.github.io/Grimdark_Worldbuilding",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
