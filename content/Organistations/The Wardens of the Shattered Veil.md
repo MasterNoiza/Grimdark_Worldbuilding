@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-21T20:08:57.166+01:00","modified":"2025-12-22T00:34:25.301+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-20T09:03:54.086+01:00","modified":"2025-12-22T01:25:09.598+01:00","cssclasses":""}
 ---
 
 
@@ -362,6 +362,7 @@ These excursions aim to:
 	- A collective of Mutes. Tasked with anonymizing Watch-reports, delivering them to the Jury and revealing Identity of the Scrutinized only after a guilty charge is cast.
 	- Also randomly chooses Bands to undergo a Watching, assigns Watchers and coordinates Watches with scheduled Succourings or Stewardships
 	- Chooses and assigns Black Bonds to carry out the execution of Judgements
+	- The Muted are ritual components integral to the execution of the Watch system, not an independent body of power.
 
 - The Jury
 	- Seventeen randomly chosen Wardens that get summoned by the Quiet whenever a Watch has ended
