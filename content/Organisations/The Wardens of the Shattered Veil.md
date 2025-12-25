@@ -1,11 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-22T12:20:17.551+01:00","modified":"2025-12-23T00:34:48.513+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-20T09:03:54.086+01:00","modified":"2025-12-22T22:59:43.632+01:00","cssclasses":""}
 ---
 
 #ToDecide #todo 
-
-Testing sync from mobile
-
 # Naming Options: (Help me out here)
 
 Prefixes:
@@ -25,7 +22,7 @@ Suffixes:
 ---
 # Overview:
 
-An ancient order of Knights, thrust into the ever-shifting landscape of [[The Mirror]] centuries ago, during the [[The Great Calamity\|Calamity]]. They still inhabit what is left of their former keep, The Hearth, the crumbling structure anchored in relative stability by ancient, yet slowly waning wards. 
+An ancient order of Knights, thrust into the ever-shifting landscape of [[Brainstorm/The Mirror]] centuries ago, during the [[The Great Calamity\|Calamity]]. They still inhabit what is left of their former keep, The Hearth, the crumbling structure anchored in relative stability by ancient, yet slowly waning wards. 
 
 The Ward clings to existence and self-preservation despite the inevitability of being consumed and changed beyond recognition in the end. This forced them to adapt their traditions long ago. They zealously rely on these protocols, dogmas and their existence hinges on them. 
 
