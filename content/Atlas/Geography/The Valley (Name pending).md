@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-22T22:40:02.758+01:00","modified":"2025-12-23T00:29:14.599+01:00","cssclasses":""}
+{"publish":true,"created":"2025-12-28T19:29:52.533+01:00","modified":"2025-12-28T19:29:52.533+01:00","cssclasses":""}
 ---
 
 
@@ -46,7 +46,7 @@ The valley stretches about X miles by Y miles and is dominated by the wilderness
 In the distant past the landscape was dotted by small towns, hamlets and farms that broke apart the sprawling forests covering the foothills of [[Atlas/Geography/The Ironroot Mountains (Name placeholder)]] in the east, the [[Atlas/Geography/Blackfrost Ridge (Name placeholder)]] in the north-west and [[Atlas/Geography/The Dry Peaks (Name placeholder)]] in the south-west.
 
 In these days, there are 4 settlements worth mentioning:
-- [[Atlas/Settlements/Ironkeep (Name Placeholder)]] in the far south at the shores of the [[Atlas/Geography/Rough Ocean (Name pending)]]
+- [[Atlas/Settlements/Ironkeep (Name Placeholder)]] in the far south at the shores of the [[Atlas/Geography/The Boiling Sea (Name pending)]]
 - [[Atlas/Settlements/Riverwell (Name placeholder)]] by the mouth of the River
 - [[Atlas/Settlements/Mistbridge (Name Placeholder)]] in the Heartlands, surrounded by Enlightenment and fields of grain
 - [[Atlas/Settlements/Wintermore (Name placeholder)]] high up in [[Atlas/Geography/The Ironroot Mountains (Name placeholder)]], echoing with the sound of anvils in the forges and pickaxes deep down in the mines.
