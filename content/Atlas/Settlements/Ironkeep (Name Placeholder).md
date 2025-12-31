@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2025-12-31T11:28:05.826+01:00","cssclasses":""}
+{"publish":true,"title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2025-12-31T23:28:43.088+01:00","cssclasses":""}
 ---
-
 
 Salt, wind, cold, moist. Also fish
 #todo 
@@ -36,7 +35,7 @@ marker:
 
 > [!infobox]
 > ## Ironkeep (Name Placeholder) 
-> ![[Ironkeep_Small.jpg|cover hsmall]]
+> ![[z_Attachments/Ironkeep_Small.jpg|cover hsmall]]
 > ###### Overview
 > | | |
 > | ---- | ---- |
@@ -64,3 +63,10 @@ marker:
     - Some warriors of the aforementioned village practice extensively with this technique, often fighting with shorter swords or daggers to maximise 
 - Alternatively, warriors train with slings to be able to hurl the equivalent of Molotov cocktails in battle. 
 - Another version of Ili'tha made using less Li'ath oil and solidified sugar instead of glass is considered a delicacy among the aristocracy of the few kingdoms that manage access to Li'ath flowers – whether it be by trade or force.
+
+---
+
+## Map
+
+> [!map|minZoom:0-maxZoom:2] Ironkeep
+> ![[z_Attachments/HuntersBay-Day.webp]]
