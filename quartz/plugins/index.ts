@@ -45,7 +45,7 @@ export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
 export * from "./transformers"
 export * from "./filters"
 export * from "./emitters"
-export { LeafletMap } from "./leafletMapPlugin"
+export { LeafletMap } from ".transformers/leafletMapPlugin"
 
 declare module "vfile" {
   // inserted in processors.ts
