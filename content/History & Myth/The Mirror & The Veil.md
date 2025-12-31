@@ -1,10 +1,11 @@
 ---
-publish: "true"
+{"publish":true,"created":"2025-12-31T10:38:12.668+01:00","modified":"2025-12-31T11:36:50.669+01:00","cssclasses":""}
 ---
+
 
 #todo 
 
-> [!quote] Source unknown
+> [!quote|mark] Source unknown
 > Beyond our world, far removed, but close enough to touch it, yet forever distant and cut off by the Veil, lies the Mirror. A feint imprint of the reality we are so sure we call our own. Cut off... Or so we thought.
 > 
 > Every stone cast in a still forest lake sends ripples down the surface of its misty, bleak reflection in the Mirror. Or are we the projections? Are we mere echoes of the spirits that roam the dim and twisted forests beyond our reach? 
