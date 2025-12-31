@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-12-30T22:25:54.002+01:00","modified":"2025-12-28T19:29:52.000+01:00","cssclasses":""}
+publish: "true"
 ---
-
 
 #todo #ToDecide 
 

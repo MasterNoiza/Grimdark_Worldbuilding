@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-30T22:25:54.010+01:00","modified":"2025-12-28T22:33:40.000+01:00","cssclasses":""}
+publish: "true"
 ---
 
 #todo 
@@ -19,11 +19,3 @@
 To formulate words to accurately and cleanly describe the Mirror is a futile attempt. No description or scholarly journal can encompass the vast, ever-shifting landscape beyond the Veil.
 
 Every mountain, every valley, every town and every lake, every river, every village, every forest and desert has a twisted, contorted, but distinct representation in the Mirror. 
-
-Distance, time and scale loose much of their meaning. The twisted shadow of reality itself contorts everything and everyone it touches.
-
-The Mirror is not a incorporal illusion. It is material and real in it's own sense of the words. Beings of differing morals and levels of sentience roam, live and die there.
-
-Every particle of the Mirror is fractured however. Fractured and twisted in such a fundamental way that it is incompatible with us beings from this plane. Stepping through the Veil will inevitably lead to change. So will drawing on the Fracture, pulling the power, the "Essence" as the Scholars, Loremasters and Weavers call it, to fuel rituals and spells. 
-
----
