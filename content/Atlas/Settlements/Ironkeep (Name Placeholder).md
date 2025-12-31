@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2025-12-31T23:44:25.471+01:00","cssclasses":""}
+{"publish":true,"title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2025-12-31T23:54:27.821+01:00","cssclasses":""}
 ---
 
 Salt, wind, cold, moist. Also fish
@@ -68,5 +68,5 @@ marker:
 
 ## Map
 
-> [!map|minZoom:0-maxZoom:2] Ironkeep
+> [!map|minZoom:-4-maxZoom:-1] Ironkeep
 > ![[z_Attachments/HuntersBay-Day.webp]]
