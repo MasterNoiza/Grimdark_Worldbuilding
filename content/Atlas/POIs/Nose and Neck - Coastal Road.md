@@ -4,7 +4,4 @@
 
 
 Well its the Road connecting [[Atlas/Settlements/Riverwell (Name placeholder)\|Riverwell]] and [[Ironkeep (Name Placeholder)\|Ironkeep]]. But there surely will follow details.
-#todo 
-
-    x: 2485
-    y: 5508
+#todo
