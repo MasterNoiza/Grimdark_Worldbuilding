@@ -1,7 +1,5 @@
 ---
 publish:true
-created:"2025-12-31T10:38:12.648+01:00"
-modified:"2026-01-01T01:03:21.019+01:00"
 marker:
   - mapName: Ironkeep
     x: 0
