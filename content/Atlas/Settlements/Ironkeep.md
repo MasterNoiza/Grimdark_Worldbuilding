@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2026-01-01T13:44:34.537+01:00","cssclasses":""}
+{"publish":"true","title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2026-01-01T16:06:46.873+01:00","published":"2026-01-01T16:06:46.873+01:00","cssclasses":""}
 ---
 
 Salt, wind, cold, moist. Also fish
@@ -28,6 +28,7 @@ marker:
 - Road,0,0,Nose and Neck - Coastal Road,,,
 - Town,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*>,
 - Town,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*> 
+marker: default,5692.68096430025,2538.984633891502,Riverwell,,,
 
 ```
 
