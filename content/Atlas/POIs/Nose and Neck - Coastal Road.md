@@ -2,8 +2,8 @@
 publish: "true"
 marker:
   - mapName: Ironkeep
-    x: 5508
-    y: 2485
+    x: 508
+    y: 485
     icon: mdi:map-marker
     colour: red
 ---
