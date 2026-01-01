@@ -1,5 +1,11 @@
 ---
-{"publish":true,"created":"2025-12-31T10:38:12.648+01:00","modified":"2026-01-01T13:24:30.091+01:00","cssclasses":""}
+publish: "true"
+marker:
+  - mapName: Ironkeep
+    x: 0
+    y: 0
+    icon: mdi:map-marker
+    colour: red
 ---
 
 
