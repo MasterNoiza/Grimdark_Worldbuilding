@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2026-01-01T00:22:17.599+01:00","cssclasses":""}
+{"publish":true,"title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2026-01-01T01:02:32.505+01:00","cssclasses":""}
 ---
 
 Salt, wind, cold, moist. Also fish
@@ -25,7 +25,7 @@ recenter: false
 darkmode: false
 marker:
 - Road,5508,2485.333251953125,Nose and Neck - Coastal Road,,,
-- Town,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*>,
+- Road,0,0,Nose and Neck - Coastal Road,,,
 - Town,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*>,
 - Town,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*> 
 
