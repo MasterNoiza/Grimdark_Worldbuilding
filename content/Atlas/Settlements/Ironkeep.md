@@ -2,7 +2,7 @@
 {"publish":true,"title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2026-01-01T01:02:32.505+01:00","cssclasses":""}
 map:
   name: Ironkeep
-  path: z_Attachments\HuntersBay-Day.webp
+  path: "\z_Attachments\HuntersBay-Day.webp"
 ---
 
 Salt, wind, cold, moist. Also fish
