@@ -1,5 +1,5 @@
 ---
-publish:true
+publish: true
 marker:
   - mapName: Ironkeep
     x: 0
