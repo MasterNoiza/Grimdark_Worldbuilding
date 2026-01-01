@@ -1,5 +1,5 @@
 ---
-{"publish":"true","title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2026-01-01T23:34:21.601+01:00","published":"2026-01-01T23:34:21.601+01:00","cssclasses":""}
+{"publish":"true","title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2026-01-01T23:38:28.127+01:00","published":"2026-01-01T23:38:28.127+01:00","cssclasses":""}
 ---
 
 Salt, wind, cold, moist. Also fish
@@ -69,5 +69,5 @@ marker: default,5692.68096430025,2538.984633891502,Riverwell,,,
 
 ## Map
 
-> [!map|minZoom:-1.5-maxZoom:0] Ironkeep
+> [!map|minZoom:-2-maxZoom:0] Ironkeep
 > ![[z_Attachments/HuntersBay-Day.webp]]
