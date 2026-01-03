@@ -1,9 +1,13 @@
 ---
-{"publish":true,"created":"2025-12-30T23:37:10.557+01:00","modified":"2025-12-29T02:55:55.000+01:00","cssclasses":""}
+{"publish":"true","created":"2025-12-30T23:37:10.557+01:00","modified":"2026-01-03T01:43:42.639+01:00","published":"2026-01-03T01:43:42.639+01:00","cssclasses":""}
 ---
 
+# Landing Page (WIP)
+<br>
+This is the part of our (Tophat & Noiza) WOrldbuilding project that we are willing to share. It will get expanded and worked on in due time.
+<br>
 
-# Table of contents
+## Table of contents
 
 The Wardens of the Shattered Veil:
 <br>
