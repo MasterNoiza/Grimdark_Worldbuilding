@@ -1,5 +1,5 @@
 ---
-{"publish":"true","created":"2025-12-30T23:37:10.557+01:00","modified":"2026-01-03T23:17:56.137+01:00","published":"2026-01-03T23:17:56.137+01:00","cssclasses":""}
+{"publish":"true","created":"2025-12-30T23:37:10.557+01:00","modified":"2026-01-04T12:55:44.195+01:00","published":"2026-01-04T12:55:44.195+01:00","cssclasses":""}
 ---
 
 # Landing Page (WIP)
@@ -7,10 +7,9 @@
 This is the part of our (Tophat & Noiza) Worldbuilding project that we are willing to share. It will get expanded and worked on in due time.
 <br>
 
-## Table of contents
+## Table of Contents
 
 The Wardens of the Shattered Veil:
-<br>
 - [[Organisations/The Wardens of the Shattered Veil/1. Overview]]
 - [[Organisations/The Wardens of the Shattered Veil/2. The Band]]
 - [[Organisations/The Wardens of the Shattered Veil/3. Corruption & The Change]]
@@ -19,8 +18,11 @@ The Wardens of the Shattered Veil:
 - [[Organisations/The Wardens of the Shattered Veil/6. The Tendrils (Name pending)]]
 
 ---
+The Mirror and Reality:
+- [[History & Myth/The Mirror & The Veil]]
+
+---
 Magic:
-<br>
 - [[Magic/Veil-Scarring (Or Essence Weaving)\|Veil-Scarring (Or Essence Weaving)]]
 
 
