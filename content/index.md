@@ -1,5 +1,5 @@
 ---
-{"publish":"true","created":"2025-12-30T23:37:10.557+01:00","modified":"2026-01-04T12:55:44.195+01:00","published":"2026-01-04T12:55:44.195+01:00","cssclasses":""}
+{"publish":"true","created":"2025-12-30T23:37:10.557+01:00","modified":"2026-01-04T21:40:20.738+01:00","published":"2026-01-04T21:40:20.738+01:00","cssclasses":""}
 ---
 
 # Landing Page (WIP)
@@ -16,6 +16,7 @@ The Wardens of the Shattered Veil:
 - [[Organisations/The Wardens of the Shattered Veil/4. The Hunt]]
 - [[Organisations/The Wardens of the Shattered Veil/5. The Hearth]]
 - [[Organisations/The Wardens of the Shattered Veil/6. The Tendrils (Name pending)]]
+- [[Organisations/The Wardens of the Shattered Veil/7. From Tribute to Warden]]
 
 ---
 The Mirror and Reality:
