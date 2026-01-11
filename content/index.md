@@ -1,5 +1,5 @@
 ---
-{"publish":"true","created":"2026-01-08T09:34:44.538+01:00","modified":"2026-01-11T01:00:18.146+01:00","published":"2026-01-11T01:00:18.146+01:00","cssclasses":""}
+{"publish":"true","created":"2026-01-08T09:34:44.538+01:00","modified":"2026-01-11T01:19:47.631+01:00","published":"2026-01-11T01:19:47.631+01:00","cssclasses":""}
 ---
 
 # Landing Page (WIP)
@@ -9,7 +9,7 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 ---
 
 
-> [!column|no-i]- ## Table of Contents
+> [!column|no-i]- **Table of Contents**
 >> [!info|clean no-t] Column 1
 >>> [!NOTE|clean no-i nbrd nmg]- [[Organisations/1. The Wardens of the Shattered Veil/1. Overview\|The Wardens of the Shattered Veil]]
 >>>> [!NOTE|clean no-i embed]-  [[Organisations/1. The Wardens of the Shattered Veil/2. The Band\| The Band]]
@@ -18,19 +18,19 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 >>>> - [[Organisations/1. The Wardens of the Shattered Veil/2.3. The Envoys\|The Envoys (Placeholder)]]
 >>>> - [[Organisations/1. The Wardens of the Shattered Veil/2.4. The Hunters\|The Hunters (Placeholder)]]
 >>>
->>>> [!NOTE|clean no-i embed]- [[Rubbish/2026-01-10/3. Corruption & The Change]]
+>>>> [!NOTE|clean no-i embed]- [[Organisations/1. The Wardens of the Shattered Veil/3. Corruption & The Change]]
 >>>> - [[Organisations/1. The Wardens of the Shattered Veil/3.1. Typical Mutations\|Typical Mutations (Placeholder)]]
 >>>
 >>>> [!NOTE|clean no-i embed]- [[Organisations/1. The Wardens of the Shattered Veil/4. The Hunt]]
 >>>>
 >>>
->>>> [!NOTE|clean no-i embed]- [[Rubbish/2026-01-10/5. The Hearth]]
->>>> - [[Rubbish/2026-01-10/5.1. The Vault]]
+>>>> [!NOTE|clean no-i embed]- [[Organisations/1. The Wardens of the Shattered Veil/5. The Hearth]]
+>>>> - [[Organisations/1. The Wardens of the Shattered Veil/5.1. The Vault]]
 >>>
->>>> [!NOTE|clean no-i embed]- [[Rubbish/2026-01-10/6. The Tendrils (Name pending)]]
+>>>> [!NOTE|clean no-i embed]- [[Organisations/1. The Wardens of the Shattered Veil/6. The Tendrils (Name pending)]]
 >>>>
 >>>
->>>> [!NOTE|clean no-i embed] [[Rubbish/2026-01-10/7. From Tribute to Warden]]
+>>>> [!NOTE|clean no-i embed] [[Organisations/1. The Wardens of the Shattered Veil/7. From Tribute to Warden]]
 >>>>
 >>>
 >>
