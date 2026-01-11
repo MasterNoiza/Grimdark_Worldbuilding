@@ -1,5 +1,5 @@
 ---
-{"publish":"true","created":"2026-01-08T09:34:44.538+01:00","modified":"2026-01-11T01:19:47.631+01:00","published":"2026-01-11T01:19:47.631+01:00","cssclasses":""}
+{"publish":"true","created":"2026-01-11T14:40:10.120+01:00","modified":"2026-01-11T23:12:02.634+01:00","published":"2026-01-11T23:12:02.634+01:00","cssclasses":""}
 ---
 
 # Landing Page (WIP)
@@ -55,13 +55,16 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 
 ---
 
-> [!Quote] Extract from "*A Compendium of the Lands, Seas, History and Myth of the known World*" <br>Compiled and curated by Eddart of Gelthyr, wandering scribe and loremaster
-> In a time long long since forgotten and turned to myth and hushed whispers, the world was ruled, shaped and dominated by the Empires of old, the most powerful societies the world has ever seen. Their relentless thirst for power and progress led to their undoing. Through the reckless use of magic, the art of [[Magic/Veil-Scarring (Or Essence Weaving)\|Essence Weaving]], they tore apart the Veil, the fragile barrier separating reality from the [[The Realms/3. The Mirror & The Veil\|Mirror]], a dark, twisted reflection of the world. This event, known as [[History & Myth/The Great Calamity\|The Great Calamity, The Convergence, The Great Cataclysm and many other names]], unleashed chaotic forces that forever altered the course of history.
+
+>[!quote|mark] Extract from "*A Compendium of the Lands, Seas, History and Myth of the known World*" <br>Compiled and curated by Eddart of Gelthyr, wandering scribe and loremaster
+> In a time long, long since forgotten, and turned to myth and hushed whispers, the world was ruled, shaped and dominated by the Empires of old, the most powerful societies the world has ever seen. Their relentless thirst for power and progress led to their undoing. Through the reckless use of magic, the art of [[Magic/Veil-Scarring (Or Essence Weaving)\|Essence Weaving]], they tore apart the Veil, the fragile barrier separating reality from the [[The Realms/3. The Mirror & The Veil\|Mirror]] — a dark, twisted reflection of the world. This event, known as [[History & Myth/The Great Calamity\|The Great Calamity, The Convergence, The Great Cataclysm and many other names]], unleashed chaotic forces that forever altered the course of history.
+> 
 > Now, ten-thousand years later, the world is but a shattered remnant of its former glory. The great ancient empires have crumbled, and Humanity is fractured into war-torn kingdoms, city-states, and fragile alliances, desperately clinging to survival in a world no longer fit for humans. Their great cities lie in decay, haunted by the echoes of the Convergence, places where the Veil remains thin, and magic warps the fabric of reality.
 > 
 > Amid the remnants of this broken world, twisted Horrors roam the lands, enabled to enter Reality by the areas where the Veil remains weak, or by careless humans, ignoring the lessons of the past and practicing *Essence Weaving*. 
 > 
-> Human civilization and it's influence is amost entirely confined to heavily fortified towns and villages, even the smallest hamlets boasting at least a shallow moat and wooden palisade.
+> Human civilization and it's influence is almost entirely confined to heavily fortified towns and villages, even the smallest hamlets boasting at least a shallow moat and wooden palisade.
+> 
 > Farming and agriculture is only possible in the "Enlightened Zones" a few miles around settlements at most, areas deforested and heavily guarded and patrolled, but still only dared to be worked during daytime.
 > 
 > The wilderness between settlements is where the Horrors stalk, where supernatural and weird creatures roam, where death comes cheap and strange places loom.

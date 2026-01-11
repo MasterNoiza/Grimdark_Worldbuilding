@@ -1,7 +1,7 @@
 ---
-{"publish":"true","title":"Ironkeep","created":"2025-12-31T10:38:12.651+01:00","modified":"2026-01-01T23:51:54.831+01:00","published":"2026-01-01T23:51:54.831+01:00","cssclasses":""}
+publish: "true"
+title: Ironkeep
 ---
-
 Salt, wind, cold, moist. Also fish
 #todo 
 

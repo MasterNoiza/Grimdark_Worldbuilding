@@ -1,7 +1,6 @@
 ---
-{"publish":"true","created":"2026-01-08T09:34:44.826+01:00","modified":"2026-01-09T00:33:46.089+01:00","published":"2026-01-09T00:33:46.089+01:00","cssclasses":""}
+publish: "true"
 ---
-
 
 #todo 
 
