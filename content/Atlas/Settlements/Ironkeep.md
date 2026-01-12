@@ -35,7 +35,7 @@ marker:
 
 > [!infobox]
 > ## Ironkeep (Name Placeholder) 
-> ![[Ironkeep_Small.jpg\|cover hsmall]]
+> ![[z_Attachments/Ironkeep_Small.jpg|cover hsmall]]
 > ###### Overview
 > | | |
 > | ---- | ---- |
@@ -69,4 +69,4 @@ marker:
 ## Map
 
 > [!map|minZoom:-2-maxZoom:0] Ironkeep
-> ![[HuntersBay-Day.webp]]
+> ![[z_Attachments/HuntersBay-Day.webp]]

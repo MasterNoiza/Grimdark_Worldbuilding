@@ -1,5 +1,5 @@
 ---
-{"publish":"true","created":"2026-01-11T23:12:02.000+01:00","modified":"2026-01-11T23:12:02.000+01:00","published":"2026-01-11T23:12:02.000+01:00","cssclasses":""}
+{"publish":"true","created":"2026-01-11T20:54:13.088+01:00","modified":"2026-01-12T10:56:21.000+01:00","published":"2026-01-12T10:56:21.000+01:00","cssclasses":""}
 ---
 
 # Landing Page (WIP)
@@ -30,7 +30,7 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 >>>> [!NOTE|clean no-i embed]- [[Organisations/1. The Wardens of the Shattered Veil/6. The Tendrils (Name pending)]]
 >>>>
 >>>
->>>> [!NOTE|clean no-i embed] [[Organisations/1. The Wardens of the Shattered Veil/7. From Tribute to Warden]]
+>>>> [!NOTE|clean no-i embed] [[Organisations/1. The Wardens of the Shattered Veil/7. From Tribute to Warden - The Binding]]
 >>>>
 >>>
 >>
