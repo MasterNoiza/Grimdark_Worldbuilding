@@ -1,6 +1,7 @@
 ---
-publish: "true"
+{"publish":"true","created":"2026-01-11T15:51:05.878+01:00","modified":"2026-01-12T19:32:38.175+01:00","published":"2026-01-12T19:32:38.175+01:00","cssclasses":""}
 ---
+
 
 #todo #ToDecide 
 
@@ -48,4 +49,8 @@ In these days, there are 4 settlements worth mentioning:
 - [[Ironkeep (Name Placeholder)]] in the far south at the shores of the [[Atlas/Geography/The Boiling Sea (Name pending)]]
 - [[Atlas/Settlements/Riverwell (Name placeholder)]] by the mouth of the River
 - [[Atlas/Settlements/Mistbridge (Name Placeholder)]] in the Heartlands, surrounded by Enlightenment and fields of grain
-- [[Atlas/Settlements/Wintermore (Name placeholder)]] high up in [[Atlas/Geography/The Ironroot Mountains (Name placeholder)]], echoing with the sound of anvils in the forges and pickaxes deep down in the mines.
+- [[Atlas/Settlements/Wintermore (Name placeholder)]] high up in [[Atlas/Geography/The Ironroot Mountains (Name placeholder)]], echoing with the sound of anvils in the forges and pickaxes deep down in the mines
+
+Additional information of note:
+- There is a rather small but heavily fortified and maintained fortress of the [[Organisations/2. {The Order of the cleansing Flame}\|Order of the Cleansing Flame (Name pending)]] (Location panding)
+- There *are* areas of thin [[The Mirror & The Veil\|Veil]] and incursions by the [[Organisations/1. The Wardens of the Shattered Veil/1. Overview\|Wardens of the Shattered Veil]] happen occasionally
