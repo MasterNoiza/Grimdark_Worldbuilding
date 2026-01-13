@@ -1,9 +1,13 @@
 ---
-{"publish":"true","created":"2026-01-11T20:54:13.088+01:00","modified":"2026-01-12T10:56:21.000+01:00","published":"2026-01-12T10:56:21.000+01:00","cssclasses":""}
+{"publish":"true","created":"2026-01-11T23:12:02.000+01:00","modified":"2026-01-13T03:32:59.318+01:00","published":"2026-01-13T03:32:59.318+01:00","cssclasses":""}
 ---
 
 # Landing Page (WIP)
 <br>
+
+> [!Warning]
+> Currently under heavy construction. Pages are being reorganized
+
 This is the part of our (Tophat & Noiza) Worldbuilding project that we are willing to share. It will get expanded and worked on in due time.
 
 ---
