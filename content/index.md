@@ -1,5 +1,5 @@
 ---
-{"publish":"true","created":"2026-01-11T20:54:13.088+01:00","modified":"2026-01-13T06:30:12.989+01:00","published":"2026-01-13T06:30:12.989+01:00","cssclasses":""}
+{"publish":"true","created":"2026-01-11T20:54:13.088+01:00","modified":"2026-01-13T06:56:44.750+01:00","published":"2026-01-13T06:56:44.750+01:00","cssclasses":""}
 ---
 
 # Landing Page (WIP)
@@ -61,7 +61,7 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 
 
 >[!quote|mark] Extract from "*A Compendium of the Lands, Seas, History and Myth of the known World*" <br>Compiled and curated by Eddart of Gelthyr, wandering scribe and loremaster
-> In a time long, long since forgotten, and turned to myth and hushed whispers, the world was ruled, shaped and dominated by the Empires of old, the most powerful societies the world has ever seen. Their relentless thirst for power and progress led to their undoing. Through the reckless use of magic, the art of [[Magic/Veil-Scarring (Or Essence Weaving)\|Essence Weaving]], they tore apart the Veil, the fragile barrier separating reality from the [[The Realms/3. The Mirror & The Veil\|Mirror]] — a dark, twisted reflection of the world. This event, known as [[History & Myth/The Great Calamity\|The Great Calamity, The Convergence, The Great Cataclysm and many other names]], unleashed chaotic forces that forever altered the course of history.
+> In a time long, long since forgotten, and turned to myth and hushed whispers, the world was ruled, shaped and dominated by the Empires of old, the most powerful societies the world has ever seen. Their relentless thirst for power and progress led to their undoing. Through the reckless use of magic, the art of [[Magic/Veil-Scarring (Or Essence Weaving)\|Essence Weaving]], they tore apart the Veil, the fragile barrier separating reality from the [[The Realms/3. The Mirror & The Veil\|Mirror]], a dark, twisted reflection of the world. This event, known as [[History & Myth/The Great Calamity\|The Great Calamity, The Convergence, The Great Cataclysm and many other names]], unleashed chaotic forces that forever altered the course of history.
 > 
 > Now, ten-thousand years later, the world is but a shattered remnant of its former glory. The great ancient empires have crumbled, and Humanity is fractured into war-torn kingdoms, city-states, and fragile alliances, desperately clinging to survival in a world no longer fit for humans. Their great cities lie in decay, haunted by the echoes of the Convergence, places where the Veil remains thin, and magic warps the fabric of reality.
 > 
@@ -80,9 +80,25 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 > The Veil grows ever thinner. The Mirror's influence spreads. The world teeters on the edge of oblivion, and those who remain struggle to survive, ever haunted by the echoes of their past mistakes and the looming darkness of their future.
 
 
-```dataview
-TABLE file.folder AS "Folder"
-WHERE publish
-SORT file.mday DESCENDING, file.folder ASCENDING
-LIMIT 20
-```
+| File                                                                                                                                       | Folder                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| [[index\|index]]                                                                                                                        |                                                     |
+| [[Atlas/Geography/The Valley (Name pending)\|The Valley (Name pending)]]                                                                | Atlas/Geography                                     |
+| [[Organisations/1. The Wardens of the Shattered Veil/1. Overview\|1. Overview]]                                                         | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/1.1. Doctrinal Concepts\|1.1. Doctrinal Concepts]]                                 | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/1.3. The Joy & The Self\|1.3. The Joy & The Self]]                                 | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/1.2. The Stewardship\|1.2. The Stewardship]]                                       | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/2.2. The Scribes\|2.2. The Scribes]]                                               | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/2.3. The Envoys\|2.3. The Envoys]]                                                 | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/2.4. The Hunters\|2.4. The Hunters]]                                               | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/3. Corruption & The Change\|3. Corruption & The Change]]                           | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/4. The Hunt\|4. The Hunt]]                                                         | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/5.1. The Vault\|5.1. The Vault]]                                                   | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/5.2. The Stewardship\|5.2. The Stewardship]]                                       | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/1. The Wardens of the Shattered Veil/7. From Tribute to Warden - The Binding\|7. From Tribute to Warden - The Binding]] | Organisations/1. The Wardens of the Shattered Veil  |
+| [[Organisations/2. {The Order of the cleansing Flame}/1. Overview\|1. Overview]]                                                        | Organisations/2. {The Order of the cleansing Flame} |
+| [[SomeBoomers Testing Folder/Templates/The Order of the Cleansing Flame\|The Order of the Cleansing Flame]]                             | SomeBoomers Testing Folder/Templates                |
+| [[Atlas/POIs/Nose and Neck - Coastal Road\|Nose and Neck - Coastal Road]]                                                               | Atlas/POIs                                          |
+| [[Atlas/Settlements/Ironkeep\|Ironkeep]]                                                                                                | Atlas/Settlements                                   |
+| [[Magic/Veil-Scarring (Or Essence Weaving)\|Veil-Scarring (Or Essence Weaving)]]                                                        | Magic                                               |
+| [[Organisations/1. The Wardens of the Shattered Veil/2. The Band\|2. The Band]]                                                         | Organisations/1. The Wardens of the Shattered Veil  |
