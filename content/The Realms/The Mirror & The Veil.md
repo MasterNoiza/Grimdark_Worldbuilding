@@ -1,8 +1,7 @@
 ---
-{"publish":"true","created":"2026-01-11T14:40:10.041+01:00","modified":"2026-01-16T21:23:56.276+01:00","published":"2026-01-16T21:23:56.276+01:00","cssclasses":""}
+{"publish":"true","created":"2026-01-12T16:58:40.969+01:00","modified":"2026-01-16T21:35:04.629+01:00","published":"2026-01-16T21:35:04.629+01:00","cssclasses":""}
 ---
 
-#todo 
 ![[z_Attachements/00031-1016452489.webp]]
 
 > [!quote|author] Source unknown
