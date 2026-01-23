@@ -1,8 +1,8 @@
 ---
 publish: "true"
 created: 2026-01-23T10:00:27.824+01:00
-modified: 2026-01-23T23:39:53.744+01:00
-published: 2026-01-23T23:39:53.744+01:00
+modified: 2026-01-23T23:56:22.372+01:00
+published: 2026-01-23T23:56:22.372+01:00
 cssclasses: ""
 ---
 
@@ -116,30 +116,30 @@ cssclasses: ""
 
 ## Physical Side Effects:
 
-| 1D + 1D | Effect 1                       | Effect 2                       | Effect 3                        | Effect 4                           | Effect 5                     |
-| ------- | ------------------------------ | ------------------------------ | ------------------------------- | ---------------------------------- | ---------------------------- |
-| 1-2 + 1 | DX-1                           | DX-2                           | DX-3                            |                                    |                              |
-| 1-2 + 2 | ST-1                           | ST-2                           | ST-3                            |                                    |                              |
-| 1-2 + 3 | HT-1                           | HT-2                           | HT-3                            |                                    |                              |
-| 1-2 + 4 | Colorblind (Quirk)             | Colorblind                     | Bad Sight (Low Resolution)      | Blind                              |                              |
-| 5       | Aches and Pains (Quirk)        | Chronic Pain (Mild, 2h, CR 9)  | Chronic Pain (Severe, 2h, CR 9) | Chronic Pain (Agonizing, 2h, CR 9) |                              |
-| 6       | Move-1                         | Move-2                         | Move-3                          |                                    |                              |
-| 7       | Speed-0.25                     | Speed-0.5                      | Speed-0.75                      | Speed-1.0                          |                              |
-| 8       | Disturbing Voice (Quirk)       | Disturbing Voice               |                                 |                                    |                              |
-| 9       | Easy to Kill 1                 | Easy to Kill 2                 | Easy to Kill 3                  |                                    |                              |
-| 10      | Flashbacks (Quirk)             | Flashbacks (CR 15)             | Flashbacks (CR 12)              | Flashbacks (CR 9)                  | Flashbacks (CR 6)            |
-| 11      | Bad Back (Quirk)               | Bad Back (Mild)                | Bad Back (Severe)               |                                    |                              |
-| 12      | Ham-Fisted (Quirk)             | Ham-Fisted 1                   | Ham-Fisted 2                    | No fine Manipulators               |                              |
-| 13      | Easy to Subdue 1               | Easy to Subdue 2               | Easy to Subdue 3                |                                    |                              |
-| 14      | Good Eater (Quirk)             | Increased Consumption x2       | Increased Consumption x4        | Increased Consumption x8           |                              |
-| 15      | Missing digit                  | One Hand                       | One Arm                         | One Leg                            |                              |
-| 16      | Preferred Diet (Quirk)         | Restricted Diet (Raw)          | Restricted Diet (Raw Meat)      | Restricted Diet (Mirrorborn)       | Restricted Diet (Human Meat) |
-| 17      | Extra Sleep 1                  | Extra Sleep 2                  | Extra Sleep 3                   |                                    |                              |
-| 18      | Slow Healing 1                 | Slow Healing 2                 | Slow Healing 3                  |                                    |                              |
-| 19      | Reduced Mutation resistance -1 | Reduced Mutation resistance -2 | Reduced Mutation resistance -3  |                                    |                              |
-| 20      | Increased Corruption Buildup 1 | Increased Corruption Buildup 2 | Increased Corruption Buildup 3  |                                    |                              |
-| 21      | Unfit                          | + Fat                          | Very Unfit + Fat                | Very Unfit + Very Fat              |                              |
-|         |                                |                                |                                 |                                    |                              |
+| 1D20 | Effect 1                       | Effect 2                       | Effect 3                        | Effect 4                           | Effect 5                     |
+| ---- | ------------------------------ | ------------------------------ | ------------------------------- | ---------------------------------- | ---------------------------- |
+| 1    | DX-1                           | DX-2                           | DX-3                            |                                    |                              |
+| 2    | ST-1                           | ST-2                           | ST-3                            |                                    |                              |
+| 3    | HT-1                           | HT-2                           | HT-3                            |                                    |                              |
+| 4    | Colorblind (Quirk)             | Colorblind                     | Bad Sight (Low Resolution)      | Blind                              |                              |
+| 5    | Aches and Pains (Quirk)        | Chronic Pain (Mild, 2h, CR 9)  | Chronic Pain (Severe, 2h, CR 9) | Chronic Pain (Agonizing, 2h, CR 9) |                              |
+| 6    | Move-1                         | Move-2                         | Move-3                          |                                    |                              |
+| 7    | Speed-0.25                     | Speed-0.5                      | Speed-0.75                      | Speed-1.0                          |                              |
+| 8    | Disturbing Voice (Quirk)       | Disturbing Voice               |                                 |                                    |                              |
+| 9    | Easy to Kill 1                 | Easy to Kill 2                 | Easy to Kill 3                  |                                    |                              |
+| 10   | Flashbacks (Quirk)             | Flashbacks (CR 15)             | Flashbacks (CR 12)              | Flashbacks (CR 9)                  | Flashbacks (CR 6)            |
+| 11   | Bad Back (Quirk)               | Bad Back (Mild)                | Bad Back (Severe)               |                                    |                              |
+| 12   | Ham-Fisted (Quirk)             | Ham-Fisted 1                   | Ham-Fisted 2                    | No fine Manipulators               |                              |
+| 13   | Easy to Subdue 1               | Easy to Subdue 2               | Easy to Subdue 3                |                                    |                              |
+| 14   | Good Eater (Quirk)             | Increased Consumption x2       | Increased Consumption x4        | Increased Consumption x8           |                              |
+| 15   | Missing digit                  | One Hand                       | One Arm                         | One Leg                            |                              |
+| 16   | Preferred Diet (Quirk)         | Restricted Diet (Raw)          | Restricted Diet (Raw Meat)      | Restricted Diet (Mirrorborn)       | Restricted Diet (Human Meat) |
+| 17   | Extra Sleep 1                  | Extra Sleep 2                  | Extra Sleep 3                   |                                    |                              |
+| 18   | Slow Healing 1                 | Slow Healing 2                 | Slow Healing 3                  |                                    |                              |
+| 19   | Reduced Mutation resistance -1 | Reduced Mutation resistance -2 | Reduced Mutation resistance -3  |                                    |                              |
+| 20   | Increased Corruption Buildup 1 | Increased Corruption Buildup 2 | Increased Corruption Buildup 3  |                                    |                              |
+| 21   | Unfit                          | + Fat                          | Very Unfit + Fat                | Very Unfit + Very Fat              |                              |
+|      |                                |                                |                                 |                                    |                              |
 
 ---
 # Humanity:
