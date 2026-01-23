@@ -1,8 +1,8 @@
 ---
 publish: "true"
 created: 2026-01-23T10:00:27.824+01:00
-modified: 2026-01-23T23:32:52.200+01:00
-published: 2026-01-23T23:32:52.200+01:00
+modified: 2026-01-23T23:39:53.744+01:00
+published: 2026-01-23T23:39:53.744+01:00
 cssclasses: ""
 ---
 
@@ -77,42 +77,42 @@ cssclasses: ""
 
 | 1D + 1D | Effect 1                        | Effect 2                       | Effect 3                       | Effect 4                      | Effect 5                      |
 | ------- | ------------------------------- | ------------------------------ | ------------------------------ | ----------------------------- | ----------------------------- |
-| 1-2 + 1 | Bad Temper (Quirk)              | Bad Temper (CR 15)             | Bad Temper (CR 12)             | Bad Temper (CR 9)             | Bad Temper (CR 6)             |
-| 1-2 + 2 | Bloodlust (Quirk)               | Bloodlust (CR 15)              | Bloodlust (CR 12)              | Bloodlust (CR 9)              | Bloodlust (CR 6)              |
-| 1-2 + 3 | Selfish (Quirk)                 | Selfish (CR 15)                | Selfish (CR 12)                | Selfish (CR 9)                | Selfish (CR 6)                |
-| 1-2 + 4 | Bully (Quirk)                   | Bully (CR 15)                  | Bully (CR 12)                  | Bully (CR 9)                  | Bully (CR 6)                  |
-| 1-2 + 5 | Sadism (Quirk)                  | Sadism (CR 15)                 | Sadism (CR12)                  | Sadism (CR 9)                 | Sadism (CR 6)                 |
-| 1-2 + 6 | Cowardice (Quirk)               | Cowardice (CR 15)              | Cowardice (CR 12)              | Cowardice (CR 9)              | Cowardice (CR 6)              |
-| 3-4 + 1 | Curious (Quirk)                 | Curious (CR 15)                | Curious (CR 12)                | Curious (CR 9)                | Curious (CR 6)                |
-| 3-4 + 2 | Delusion (Quirk)                | Delusion (Minor)               | Delusion (Major)               | Delusion (Severe)             |                               |
-| 3-4 + 3 | Berserk (Quirk)                 | Berserk (CR 12)                | Berserk (CR 9)                 | Berserk - Battle Rage (CR 9)  | Berserk - Battle Rage (CR 6)  |
-| 3-4 + 4 | Callous (Quirk)                 | Oblivious                      | Callous                        | Low Empathy                   |                               |
-| 3-4 + 5 | IQ-1                            | IQ-2                           | IQ-3                           |                               |                               |
-| 3-4 + 6 | Will-1                          | Will-2                         | Will-3                         |                               |                               |
-| 5-6 + 1 | Per-1                           | Per-2                          | Per-3                          |                               |                               |
-| 5-6 + 2 | Fearfulness 1                   | Fearfulness 2                  | Fearfulness 3                  |                               |                               |
-| 5-6 + 3 | Guild Complex (Quirk)           | Guild Complex                  |                                |                               |                               |
-| 5-6 + 4 | Impulsiveness (Quirk)           | Impulsiveness (CR 15)          | Impulsiveness (CR 12)          | Impulsiveness (CR 9)          | Impulsiveness (CR 6)          |
-| 5-6 + 5 | Insomniac (Quirk)               | Insomniac (Mild)               | Insomniac (Severe)             |                               |                               |
-| 5-6 + 6 | Jealousy (Quirk)                | Jealousy                       | + Megalomania                  |                               |                               |
-| 19      | Lifebane (Quirk)                | Lifebane                       | + Frightens Animals            |                               |                               |
-| 20      | Loner (Quirk)                   | Loner (CR 15)                  | Loner (CR 12)                  | Loner (CR 9)                  | Loner (CR 6)                  |
-| 21      | Nightmares (Quirk)              | Nightmares (CR 15)             | Nightmares (CR 12)             | Nightmares (CR 9)             | Nightmares (CR 6)             |
-| 22      | Serious (Quirk)                 | Clueless                       | No Sense of Humor              | Killjoy                       |                               |
-| 23      | Obsession (Short Term, Quirk)   | Obsession - Short Term (CR 15) | Obsession - Short Term (CR 12) | Obsession - Short Term (CR 9) | Obsession - Short Term (CR 6) |
-| 24      | Obsession (Long Term, Quirk)    | Obsession - Long Term (CR 15)  | Obsession - Long Term (CR 12)  | Obsession - Long Term (CR 9)  | Obsession - Long Term (CR 6)  |
-| 25      | Overconfidence (Quirk)          | Overconfidence (CR 12)         | Overconfidence (CR 9)          | Overconfidence (CR 9)         | Overconfidence (CR 6)         |
-| 26      | Paranoia (Quirk)                | Paranoia                       |                                |                               |                               |
-| 27      | Phantom Voices (Quirk)          | Phantom Voices (Annoying)      | Phantom Voices (Disturbing)    | Phantom Voices (Diabolical)   |                               |
-| 28      | Stress Atavism (Quirk Somehow?) | Stress Atavism (CR 15)         | Stress Atavism (CR 12)         | Stress Atavism<br>(CR 9)      | Stress Atavism<br>(CR 6)      |
-| 29      | Trademark (Quirk)               | Trademark (Simple)             | Trademark (Complex)            | Trademark (Elaborate)         |                               |
-| 30      | Compulsive Behavior (Quirk)     | Compulsive Behavior (CR 15)    | Compulsive Behavior (CR 12)    | Compulsive Behavior (CR 9)    | Compulsive Behavior (CR 6)    |
-| 31      | On the Edge (Quirk)             | On the Edge (CR 15)            | On the Edge (CR 12)            | On the Edge (CR 9)            | On the Edge (CR 6)            |
-| 32      | Dislikes Clean Zones            |                                |                                |                               |                               |
-| 33      | Greed (Quirk)                   | Greed (CR 15)                  | Greed (CR 12)                  | Greed (CR 9)                  | Greed (CR 6)                  |
-| 34      | OPH (Quirk)                     | OPH (React. -1)                | OPH (React. -2)                | OPH (React. -3)               |                               |
-| 35      | Post Combat Shakes (Quirk)      | Post Combat Shakes (CR 15)     | Post Combat Shakes (CR 12)     | Post Combat Shakes (CR 9)     | Post Combat Shakes (CR 6)     |
-| 36      | Sleepwalker (Quirk)             | Sleepwalker (CR 15)            | Sleepwalker (CR 12)            | Sleepwalker (CR 9)            | Sleepwalker (CR 6)            |
+| 1 + 1   | Bad Temper (Quirk)              | Bad Temper (CR 15)             | Bad Temper (CR 12)             | Bad Temper (CR 9)             | Bad Temper (CR 6)             |
+| 1 + 2   | Bloodlust (Quirk)               | Bloodlust (CR 15)              | Bloodlust (CR 12)              | Bloodlust (CR 9)              | Bloodlust (CR 6)              |
+| 1 + 3   | Selfish (Quirk)                 | Selfish (CR 15)                | Selfish (CR 12)                | Selfish (CR 9)                | Selfish (CR 6)                |
+| 1 + 4   | Bully (Quirk)                   | Bully (CR 15)                  | Bully (CR 12)                  | Bully (CR 9)                  | Bully (CR 6)                  |
+| 1 + 5   | Sadism (Quirk)                  | Sadism (CR 15)                 | Sadism (CR12)                  | Sadism (CR 9)                 | Sadism (CR 6)                 |
+| 1 + 6   | Cowardice (Quirk)               | Cowardice (CR 15)              | Cowardice (CR 12)              | Cowardice (CR 9)              | Cowardice (CR 6)              |
+| 2 + 1   | Curious (Quirk)                 | Curious (CR 15)                | Curious (CR 12)                | Curious (CR 9)                | Curious (CR 6)                |
+| 2 + 2   | Delusion (Quirk)                | Delusion (Minor)               | Delusion (Major)               | Delusion (Severe)             |                               |
+| 2 + 3   | Berserk (Quirk)                 | Berserk (CR 12)                | Berserk (CR 9)                 | Berserk - Battle Rage (CR 9)  | Berserk - Battle Rage (CR 6)  |
+| 2 + 4   | Callous (Quirk)                 | Oblivious                      | Callous                        | Low Empathy                   |                               |
+| 2 + 5   | IQ-1                            | IQ-2                           | IQ-3                           |                               |                               |
+| 2 + 6   | Will-1                          | Will-2                         | Will-3                         |                               |                               |
+| 3 + 1   | Per-1                           | Per-2                          | Per-3                          |                               |                               |
+| 3 + 2   | Fearfulness 1                   | Fearfulness 2                  | Fearfulness 3                  |                               |                               |
+| 3 + 3   | Guild Complex (Quirk)           | Guild Complex                  |                                |                               |                               |
+| 3 + 4   | Impulsiveness (Quirk)           | Impulsiveness (CR 15)          | Impulsiveness (CR 12)          | Impulsiveness (CR 9)          | Impulsiveness (CR 6)          |
+| 3 + 5   | Insomniac (Quirk)               | Insomniac (Mild)               | Insomniac (Severe)             |                               |                               |
+| 3 + 6   | Jealousy (Quirk)                | Jealousy                       | + Megalomania                  |                               |                               |
+| 4 + 1   | Lifebane (Quirk)                | Lifebane                       | + Frightens Animals            |                               |                               |
+| 4 + 2   | Loner (Quirk)                   | Loner (CR 15)                  | Loner (CR 12)                  | Loner (CR 9)                  | Loner (CR 6)                  |
+| 4 + 3   | Nightmares (Quirk)              | Nightmares (CR 15)             | Nightmares (CR 12)             | Nightmares (CR 9)             | Nightmares (CR 6)             |
+| 4 + 4   | Serious (Quirk)                 | Clueless                       | No Sense of Humor              | Killjoy                       |                               |
+| 4 + 5   | Obsession (Short Term, Quirk)   | Obsession - Short Term (CR 15) | Obsession - Short Term (CR 12) | Obsession - Short Term (CR 9) | Obsession - Short Term (CR 6) |
+| 4 + 6   | Obsession (Long Term, Quirk)    | Obsession - Long Term (CR 15)  | Obsession - Long Term (CR 12)  | Obsession - Long Term (CR 9)  | Obsession - Long Term (CR 6)  |
+| 5 + 1   | Overconfidence (Quirk)          | Overconfidence (CR 12)         | Overconfidence (CR 9)          | Overconfidence (CR 9)         | Overconfidence (CR 6)         |
+| 5 + 2   | Paranoia (Quirk)                | Paranoia                       |                                |                               |                               |
+| 5 + 3   | Phantom Voices (Quirk)          | Phantom Voices (Annoying)      | Phantom Voices (Disturbing)    | Phantom Voices (Diabolical)   |                               |
+| 5 + 4   | Stress Atavism (Quirk Somehow?) | Stress Atavism (CR 15)         | Stress Atavism (CR 12)         | Stress Atavism<br>(CR 9)      | Stress Atavism<br>(CR 6)      |
+| 5 + 5   | Trademark (Quirk)               | Trademark (Simple)             | Trademark (Complex)            | Trademark (Elaborate)         |                               |
+| 5 + 6   | Compulsive Behavior (Quirk)     | Compulsive Behavior (CR 15)    | Compulsive Behavior (CR 12)    | Compulsive Behavior (CR 9)    | Compulsive Behavior (CR 6)    |
+| 6 + 1   | On the Edge (Quirk)             | On the Edge (CR 15)            | On the Edge (CR 12)            | On the Edge (CR 9)            | On the Edge (CR 6)            |
+| 6 + 2   | Dislikes Clean Zones            |                                |                                |                               |                               |
+| 6 + 3   | Greed (Quirk)                   | Greed (CR 15)                  | Greed (CR 12)                  | Greed (CR 9)                  | Greed (CR 6)                  |
+| 6 + 4   | OPH (Quirk)                     | OPH (React. -1)                | OPH (React. -2)                | OPH (React. -3)               |                               |
+| 6 + 5   | Post Combat Shakes (Quirk)      | Post Combat Shakes (CR 15)     | Post Combat Shakes (CR 12)     | Post Combat Shakes (CR 9)     | Post Combat Shakes (CR 6)     |
+| 6 + 6   | Sleepwalker (Quirk)             | Sleepwalker (CR 15)            | Sleepwalker (CR 12)            | Sleepwalker (CR 9)            | Sleepwalker (CR 6)            |
 
 ## Physical Side Effects:
 
